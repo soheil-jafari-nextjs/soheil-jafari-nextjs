@@ -24,7 +24,7 @@
     />
     <img width="12" />
     <img
-      src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"
+      src="https://jobkaehenry.gallerycdn.vsassets.io/extensions/jobkaehenry/zustand-snippet/1.0.1/1682180336770/Microsoft.VisualStudio.Services.Icons.Default"
       height="40"
       alt="redux logo"
     />
