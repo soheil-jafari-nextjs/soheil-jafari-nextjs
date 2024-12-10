@@ -1,16 +1,125 @@
-<h1 align="center">Hi 👋, I'm Soheil</h1>
-<h3 align="center">Fullstack Next.js Developer</h3>
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%98%89+Hello%2C+I+am+Soheil+Jafari;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Fullstack+Developer+with+Next.js+%26+Node.js;%F0%9F%92%BB+My+website+is+mernfa.ir"
+    alt="Typing SVG"
+  />
+  <br />
+  <br />
+  <h3 align="left">my website</h3>
+  <a href="https://mernfa.ir" target="_blank">mernfa</a>
+  
 
-- 🔭 I’m currently working on [Fishing Shop](https://github.com/soheil-jafari-nextjs/fishing-shop)
+  <div align="center">
+    <img
+      height="200"
+      src="https://blog-oijsdoifj.storage.iran.liara.space/Screenshot%20%28763%29.png"
+    />
+  </div>
 
-- 👨‍💻 All of my projects are available at [https://mernfa.ir/create-project](https://mernfa.ir/create-project)
+  <br />
+  <br />
+  <div align="left">
+    <img
+      src="https://skillicons.dev/icons?i=nextjs"
+      height="40"
+      alt="nextjs logo"
+    />
+    <img width="12" />
+    <img
+      src="https://skillicons.dev/icons?i=tailwind"
+      height="40"
+      alt="tailwindcss logo"
+    />
+    <img width="12" />
+    <img
+      src="https://skillicons.dev/icons?i=materialui"
+      height="40"
+      alt="materialui logo"
+    />
+    <img width="12" />
+    <img
+      src="https://skillicons.dev/icons?i=nodejs"
+      height="40"
+      alt="nodejs logo"
+    />
+    <img width="12" />
+    <img
+      src="https://skillicons.dev/icons?i=mongodb"
+      height="40"
+      alt="mongodb logo"
+    />
+    <img width="12" />
+    <img
+      src="https://skillicons.dev/icons?i=jest"
+      height="40"
+      alt="jest logo"
+    />
+    <img width="12" />
+    <img
+      src="https://skillicons.dev/icons?i=ts"
+      height="40"
+      alt="typescript logo"
+    />
+    <img width="12" />
+    <img
+      src="https://skillicons.dev/icons?i=js"
+      height="40"
+      alt="javascript logo"
+    />
+    <img width="12" />
+    <img
+      src="https://skillicons.dev/icons?i=figma"
+      height="40"
+      alt="figma logo"
+    />
+    <img width="12" />
+    <img
+      src="https://skillicons.dev/icons?i=express"
+      height="40"
+      alt="express logo"
+    />
+    <img width="12" />
+    <img
+      src="https://skillicons.dev/icons?i=redux"
+      height="40"
+      alt="redux logo"
+    />
+  </div>
 
-- 💬 Ask me about **Next.js and Node.js**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soheil-jafari-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soheil-jafari-dev" height="30" width="40" /></a>
-</p>
+  <br />
+  <br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+  <h3 align="left">my social</h3>
+
+  <br />
+
+  <div align="left">
+    <a href="https://www.linkedin.com/in/soheil-jafari-dev" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+        width="52"
+        height="40"
+        alt="linkedin logo"
+      />
+    </a>
+    <a href="https://www.youtube.com/@mernfa_ir" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
+        width="52"
+        height="40"
+        alt="youtube logo"
+      />
+    </a>
+    <a href="https://t.me/mernfa" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
+        width="52"
+        height="40"
+        alt="telegram logo"
+      />
+    </a>
+  </div>
+
+
+</article>
