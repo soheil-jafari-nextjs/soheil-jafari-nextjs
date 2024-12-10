@@ -105,7 +105,7 @@
       <img
         src="https://mernfa.ir/logo.png"
         width="52"
-        height="40"
+        height="52"
         alt="mernfa logo"
       />
     </a>
