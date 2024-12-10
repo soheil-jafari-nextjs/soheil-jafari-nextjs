@@ -18,15 +18,15 @@
     />
     <img width="12" />
     <img
-      src="https://skillicons.dev/icons?i=materialui"
+      src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"
       height="40"
-      alt="materialui logo"
+      alt="zustand logo"
     />
     <img width="12" />
     <img
-      src="https://jobkaehenry.gallerycdn.vsassets.io/extensions/jobkaehenry/zustand-snippet/1.0.1/1682180336770/Microsoft.VisualStudio.Services.Icons.Default"
+      src="https://skillicons.dev/icons?i=materialui"
       height="40"
-      alt="redux logo"
+      alt="materialui logo"
     />
     <img width="12" />
     <img
