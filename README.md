@@ -103,10 +103,10 @@
   <h3 align="left">my website : mernfa.ir</h3>
   <a href="https://mernfa.ir" target="_blank">
       <img
-        src="https:mernfa.ir/logo.png"
+        src="https://mernfa.ir/logo.png"
         width="52"
         height="40"
-        alt="youtube logo"
+        alt="mernfa logo"
       />
     </a>
   <br />
