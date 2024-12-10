@@ -2,17 +2,7 @@
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%98%89+Hello%2C+I+am+Soheil+Jafari;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Fullstack+Developer+with+Next.js+%26+Node.js;%F0%9F%92%BB+My+website+is+mernfa.ir"
     alt="Typing SVG"
-  />
-  <h3 align="left">my website</h3>
-  <a href="https://mernfa.ir" target="_blank">mernfa</a>
-  <div align="center">
-    <img
-      height="200"
-      src="https://blog-oijsdoifj.storage.iran.liara.space/Screenshot%20%28763%29.png"
-    />
-  </div>
-  <br />
-  
+  />  
   <h3 align="left">my skills</h3>
   <br />
   <div align="left">
@@ -111,5 +101,14 @@
     </a>
   </div>
 
+  <h3 align="left">my website</h3>
+  <a href="https://mernfa.ir" target="_blank">mernfa</a>
+  <div align="center">
+    <img
+      height="200"
+      src="https://blog-oijsdoifj.storage.iran.liara.space/Screenshot%20%28763%29.png"
+    />
+  </div>
+  <br />
 
 </article>
