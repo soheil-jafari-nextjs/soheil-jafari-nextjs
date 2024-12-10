@@ -4,7 +4,6 @@
     alt="Typing SVG"
   />  
   <h3 align="left">my skills</h3>
-  <br />
   <div align="left">
     <img
       src="https://skillicons.dev/icons?i=nextjs"
