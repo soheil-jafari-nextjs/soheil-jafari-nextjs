@@ -82,12 +82,8 @@
       alt="redux logo"
     />
   </div>
-
-
   <br />
-
   <h3 align="left">my social</h3>
-  <br />
   <div align="left">
     <a href="https://www.linkedin.com/in/soheil-jafari-dev" target="_blank">
       <img
