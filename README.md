@@ -18,12 +18,6 @@
     />
     <img width="12" />
     <img
-      src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"
-      height="40"
-      alt="zustand logo"
-    />
-    <img width="12" />
-    <img
       src="https://skillicons.dev/icons?i=materialui"
       height="40"
       alt="materialui logo"
@@ -33,6 +27,12 @@
       src="https://skillicons.dev/icons?i=redux"
       height="40"
       alt="redux logo"
+    />
+    <img width="12" />
+    <img
+      src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"
+      height="40"
+      alt="zustand logo"
     />
   </div>
 
