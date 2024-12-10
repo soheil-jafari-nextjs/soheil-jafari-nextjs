@@ -35,7 +35,7 @@
       alt="zustand logo"
     />
   </div>
-
+<br>
 
    <div align="left">
     <img
@@ -56,6 +56,10 @@
       alt="mongodb logo"
     />
     <img width="12" />
+  </div>
+<br>
+
+   <div align="left">
     <img
       src="https://skillicons.dev/icons?i=jest"
       height="40"
