@@ -4,19 +4,17 @@
     alt="Typing SVG"
   />
   <br />
-  <br />
   <h3 align="left">my website</h3>
   <a href="https://mernfa.ir" target="_blank">mernfa</a>
-  
-
   <div align="center">
     <img
       height="200"
       src="https://blog-oijsdoifj.storage.iran.liara.space/Screenshot%20%28763%29.png"
     />
   </div>
-
   <br />
+  
+  <h3 align="left">my skills</h3>
   <br />
   <div align="left">
     <img
@@ -88,12 +86,9 @@
 
 
   <br />
-  <br />
 
   <h3 align="left">my social</h3>
-
   <br />
-
   <div align="left">
     <a href="https://www.linkedin.com/in/soheil-jafari-dev" target="_blank">
       <img
