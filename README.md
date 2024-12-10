@@ -100,14 +100,15 @@
     </a>
   </div>
 <br />
-  <h3 align="left">my website</h3>
-  <a href="https://mernfa.ir" target="_blank">mernfa</a>
-  <div align="center">
-    <img
-      height="200"
-      src="https://blog-oijsdoifj.storage.iran.liara.space/Screenshot%20%28763%29.png"
-    />
-  </div>
+  <h3 align="left">my website : mernfa.ir</h3>
+  <a href="https://mernfa.ir" target="_blank">
+      <img
+        src="https:mernfa.ir/logo.png"
+        width="52"
+        height="40"
+        alt="youtube logo"
+      />
+    </a>
   <br />
 
 </article>
