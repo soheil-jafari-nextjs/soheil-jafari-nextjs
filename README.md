@@ -22,32 +22,32 @@
       height="40"
       alt="materialui logo"
     />
+    <img width="12" />
+    <img
+      src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"
+      height="40"
+      alt="redux logo"
+    />
+    <img width="12" />
+    <img
+      src="https://skillicons.dev/icons?i=redux"
+      height="40"
+      alt="redux logo"
+    />
   </div>
 
 
    <div align="left">
     <img
-      src="https://skillicons.dev/icons?i=nextjs"
-      height="40"
-      alt="nextjs logo"
-    />
-    <img width="12" />
-    <img
-      src="https://skillicons.dev/icons?i=tailwind"
-      height="40"
-      alt="tailwindcss logo"
-    />
-    <img width="12" />
-    <img
-      src="https://skillicons.dev/icons?i=materialui"
-      height="40"
-      alt="materialui logo"
-    />
-    <img width="12" />
-    <img
       src="https://skillicons.dev/icons?i=nodejs"
       height="40"
       alt="nodejs logo"
+    />
+    <img width="12" />
+    <img
+      src="https://skillicons.dev/icons?i=express"
+      height="40"
+      alt="express logo"
     />
     <img width="12" />
     <img
@@ -78,18 +78,6 @@
       src="https://skillicons.dev/icons?i=figma"
       height="40"
       alt="figma logo"
-    />
-    <img width="12" />
-    <img
-      src="https://skillicons.dev/icons?i=express"
-      height="40"
-      alt="express logo"
-    />
-    <img width="12" />
-    <img
-      src="https://skillicons.dev/icons?i=redux"
-      height="40"
-      alt="redux logo"
     />
   </div>
 
