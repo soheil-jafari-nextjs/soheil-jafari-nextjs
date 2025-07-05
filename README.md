@@ -30,7 +30,7 @@
     />
     <img width="12" />
     <img
-      src="https://avatars.githubusercontent.com/u/160464953?s=200&v=4"
+      src="[https://avatars.githubusercontent.com/u/160464953?s=200&v=4](https://private-user-images.githubusercontent.com/89360122/444782785-c9651a03-dad6-440a-8628-4c3f643f8e3c.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE3MzY3MjksIm5iZiI6MTc1MTczNjQyOSwicGF0aCI6Ii84OTM2MDEyMi80NDQ3ODI3ODUtYzk2NTFhMDMtZGFkNi00NDBhLTg2MjgtNGMzZjY0M2Y4ZTNjLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA1VDE3MjcwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFhZjUxYjkzYTUwNmU1MTc0MjkwZDc3MTg1Y2I2OWI5YWE4YTQyYzRiMmQxMWQwOWJiODhhMDhkMGI3ZjQxMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VDvla7Z9oj9PTuUhVdMkXLrinsBAo9NVfxfQb2-hIok)"
       height="40"
       alt="zustand logo"
     />
