@@ -30,7 +30,7 @@
     />
     <img width="12" />
     <img
-      src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"
+      src="https://avatars.githubusercontent.com/u/160464953?s=200&v=4"
       height="40"
       alt="zustand logo"
     />
