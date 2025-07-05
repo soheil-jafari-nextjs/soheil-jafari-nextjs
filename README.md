@@ -29,11 +29,7 @@
       alt="redux logo"
     />
     <img width="12" />
-    <img
-      src="https://cdn.imgurl.ir/uploads/o638387_218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.webp"
-      height="40"
-      alt="zustand logo"
-    />
+    <div height="40">Zustand</div>
   </div>
 <br>
 
