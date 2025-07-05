@@ -29,7 +29,6 @@
       alt="redux logo"
     />
     <img width="12" />
-    <div height="40">Zustand</div>
   </div>
 <br>
 
